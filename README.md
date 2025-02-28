@@ -108,5 +108,5 @@ Siga as instruções do README de lá para configurar corretamente.
 
 ## 📌 **Conclusão**
 
-Muito obrigado por testar este projeto! Qualquer dúvida ou sugestão, fique à vontade para entrar em contato. 🚀
+Muito obrigado e espero que gostem. 🚀
 
