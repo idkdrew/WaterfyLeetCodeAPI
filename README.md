@@ -78,12 +78,6 @@ src/test/java/com/alves/waterfy/service/TarefaServiceTest
 
 Eles cobrem todas as funcionalidades e exceções do `TarefaService`.
 
-Para executar os testes:
-
-```bash
-mvn test
-```
-
 ---
 
 ## 📊 **Monitoramento com Actuator**
@@ -106,7 +100,7 @@ Lá você poderá visualizar os endpoints disponíveis, como:
 
 Para utilizar a API em uma interface gráfica, acesse o repositório do **Consumer**:
 
-🔗 [Repositório Consumer](#) *(adicione o link aqui)*
+🔗  *https://github.com/idkdrew/WaterfyLeetCodeConsumer*
 
 Siga as instruções do README de lá para configurar corretamente.
 
